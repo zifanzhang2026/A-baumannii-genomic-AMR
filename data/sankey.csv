@@ -1,0 +1,38 @@
+ARG,Drug_class,count,Percentage,Mechanism
+aph(3'')-Ib,Aminoglycoside,12605,63.4661,Protein synthesis inhibition
+aph(6)-Id,Aminoglycoside,12521,63.0431,Protein synthesis inhibition
+blaOXA-23,Beta-lactam,11961,60.2236,Cell wall synthesis inhibition
+tet(B),Tetracycline,11694,58.8792,Protein synthesis inhibition
+msrE,Macrolide,9755,49.1164,Protein synthesis inhibition
+mphE,Macrolide,9625,48.4618,Protein synthesis inhibition
+armA,Aminoglycoside,8398,42.2839,Protein synthesis inhibition
+sul2,Sulfonamide,8112,40.8439,Folate synthesis inhibition
+sul1,Sulfonamide,7014,35.3154,Folate synthesis inhibition
+aph(3')-Ia,Aminoglycoside,6490,32.6771,Protein synthesis inhibition
+blaTEM-12,Beta-lactam,5202,26.192,Cell wall synthesis inhibition
+catB8,Phenicol,3200,16.112,Protein synthesis inhibition
+aac(6')-Ib7,Aminoglycoside,2827,14.2339,Protein synthesis inhibition
+aac(3)-Ia,Aminoglycoside,2749,13.8412,Protein synthesis inhibition
+aph(3')-VIa,Aminoglycoside,2543,12.804,Protein synthesis inhibition
+ant(2'')-Ia,Aminoglycoside,1824,9.1838,Protein synthesis inhibition
+blaOXA-24,Beta-lactam,1622,8.1668,Cell wall synthesis inhibition
+blaOXA-72,Beta-lactam,1449,7.2957,Cell wall synthesis inhibition
+bleO,Bleomycin,945,4.7581,DNA synthesis inhibition
+blaNDM-1,Beta-lactam,917,4.6171,Cell wall synthesis inhibition
+aac(6')-Ian,Aminoglycoside,903,4.5466,Protein synthesis inhibition
+aadA2,Aminoglycoside,843,4.2445,Protein synthesis inhibition
+aac(6')-Iaf,Aminoglycoside,705,3.5497,Protein synthesis inhibition
+catI,Phenicol,628,3.162,Protein synthesis inhibition
+cmlB1,Phenicol,575,2.8951,Protein synthesis inhibition
+aph(3')-VI,Aminoglycoside,508,2.5578,Protein synthesis inhibition
+cmlA5,Phenicol,457,2.301,Protein synthesis inhibition
+arr-2,Rifampicin,419,2.1097,RNA synthesis inhibition
+tet(39),Tetracycline,409,2.0593,Protein synthesis inhibition
+aac(3)-IIe,Aminoglycoside,403,2.0291,Protein synthesis inhibition
+catB3,Phenicol,398,2.0039,Protein synthesis inhibition
+floR,Phenicol,383,1.9284,Protein synthesis inhibition
+aadA5,Aminoglycoside,372,1.873,Protein synthesis inhibition
+tet(A),Tetracycline,328,1.6515,Protein synthesis inhibition
+dfrA1,Diaminopyrimidine,322,1.6213,Folate synthesis inhibition
+dfrA19,Diaminopyrimidine,308,1.5508,Folate synthesis inhibition
+sat-1,Nucleoside,300,1.5105,DNA synthesis inhibition

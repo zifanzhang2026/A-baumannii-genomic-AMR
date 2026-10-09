@@ -1,0 +1,34 @@
+Classify,Mechanism,gene
+Beta-lactam,Class A β-内酰胺酶 (广谱/超广谱),"KPC-1, KPC-3, CTX-M-2, CTX-M-15, CTX-M-32, CTX-M-55, CTX-M-115, TEM-1, TEM-2, TEM-10, TEM-12, TEM-15, TEM-84, TEM-92, TEM-110, TEM-115, TEM-116, TEM-122, TEM-150, TEM-191, SHV-5, SHV-11, SHV-86, SHV-134, SHV-161, GES-11, GES-12, GES-14, GES-17, GES-22, VEB-1, VEB-7, VEB-9, PER-1, PER-7, CARB-3, CARB-4, CARB-5, CARB-10, CARB-14, CARB-16, SCO-1, PC1_beta-lactamase_(blaZ)，RSA-1"
+,Class B β-内酰胺酶 (金属酶/碳青霉烯酶),"NDM-1, NDM-2, NDM-4, NDM-5, NDM-6, NDM-9, IMP-1, IMP-4, IMP-8, IMP-14, IMP-16, IMP-26, VIM-1, VIM-4, VIM-5, GIM-1, TMB-1"
+,Class C β-内酰胺酶 (AmpC类),"CMY-59, CMH-1, FOX-5, ACC-4, DHA-1"
+,Class D β-内酰胺酶 (OXA型),"OXA-1, OXA-2, OXA-9, OXA-10, OXA-20, OXA-21, OXA-24, OXA-26, OXA-35,  OXA-58,  OXA-72, OXA-96, OXA-97, OXA-139, OXA-146,  OXA-160, OXA-164, OXA-165, OXA-167, OXA-169, OXA-170, OXA-207,OXA-225, OXA-23, OXA-231, OXA-232,  OXA-235, OXA-237, OXA-239, OXA-252, OXA-253, OXA-255, OXA-366, OXA-398, OXA-420, OXA-437, OXA-440, OXA-488"
+,MDS,Pseudomonas_aeruginosa_soxR
+Aminoglycoside,乙酰转移酶 (AAC),"AAC(3)-Ia, AAC(3)-Id, AAC(3)-IId, AAC(3)-IIe, AAC(3)-IV, AAC(6')-31, AAC(6')-33, AAC(6')-Iaf, AAC(6')-Ian, AAC(6')-Ib, AAC(6')-Ib7, AAC(6')-Ib9, AAC(6')-Ib10, AAC(6')-IIa, AAC(6')-IIc, AAC(6')-Il, AAC(6')-Ip, aacA43, AAC(6')-Ie-APH(2'')-Ia ,AAC(6')-Ib-cr"
+,核苷转移酶 (ANT/aad),"ANT(2'')-Ia, ANT(3'')-IIa, ANT(4')-IIb, aad(6), aadA2, aadA3, aadA5, aadA11, aadA16, aadA22, aadA24, aadA27"
+,磷酸转移酶 (APH),"APH(3')-Ia, APH(3')-IIa, APH(3')-IIb, APH(3')-IIc, APH(3')-IIIa, APH(3')-VI, APH(3')-VIa, APH(3'')-Ib, APH(4)-Ia, APH(6)-Id,APH(3')-Ib"
+,16S rRNA 甲基化酶 (高水平耐药),"armA, rmtB, rmtC, rmtE2, rmtG"
+,外排泵,cpxA
+Tetracycline,外排泵 / 保护蛋白,"tet(A), tet(B),tet(C), tet(D), tet(E), tet(G), tet(K), tet(39), tet(Y)，MuxA, MuxB，mexG, oqxA"
+,酶降解 (四环素破坏酶),"Tet(X3), Tet(X4)"
+,MDS,Pseudomonas_aeruginosa_soxR
+Quinolone,PMQR (质粒介导耐药),"QnrA1, QnrA6, QnrB5, QnrB17, QnrB19, QnrB20, QnrD1, QnrD2, QnrS1, QnrVC6, AAC(6')-Ib-cr"
+,MDS,Pseudomonas_aeruginosa_soxR
+,外排泵,"mexG, oqxA"
+Phenicol,乙酰转移酶 (cat),"catI, catII, catB2, catB3, catB8, catB11, catA8, catII_from_Escherichia_coli_K-12, Enterococcus_faecalis_chloramphenicol_acetyltransferase"
+,外排泵 (cml/flo),"cmlA1, cmlA5, cmlA6, cmlB1, floR"
+,MDS,Pseudomonas_aeruginosa_soxR
+Diaminopyrimidine,二氢叶酸还原酶 (dfr),"dfrA1, dfrA5, dfrA7, dfrA10, dfrA12, dfrA14, dfrA15, dfrA16, dfrA17, dfrA19, dfrA20, dfrA23, dfrA27, dfrA32, dfrB1"
+,,oqxA
+Sulfonamide,二氢蝶酸合酶 (sul),"sul1, sul2"
+Macrolide,甲基化酶 (erm),"ErmA, ErmB, ErmC, mphA, mphC, mphE,EreA, EreB"
+,钝化酶 / 外排泵,msrA，msrE
+,外排泵,"MuxA, MuxB"
+Lincosamide,,"ErmA, ErmB, ErmC, lnuA"
+Streptomycin,,"ErmA, ErmB, ErmC,msrA，msrE"
+Vancomycin,Van家族,"vanHA, vanHM, vanM, vanSM, vanXM, vanYM"
+Fosfomycin,硫醇转移酶,"FosA2, FosA3, FosK"
+Rifampicin,ADP-核糖转移酶,"arr-2, arr-3, arr-4,Pseudomonas_aeruginosa_soxR"
+Bleomycin,,bleO
+Nucleoside,抗生素灭活,"SAT-1, SAT-4"
+Peptide,抗生素靶点改变,bacA，MCR-4.3
